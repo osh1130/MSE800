@@ -1,4 +1,4 @@
-# 📘 Python OOP Activities 
+# Python OOP Activities 
 
 ## Activity 1: Library Book Manager  
 **Task**: Manage a library with options to add books and display all books.
